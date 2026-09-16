@@ -1,0 +1,194 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - text: Full Kontakt
+      - strong [ref=e5]: Pro
+    - navigation [ref=e6]:
+      - link "Visão Geral" [ref=e7] [cursor=pointer]:
+        - /url: "#overview"
+      - link "Ouça" [ref=e8] [cursor=pointer]:
+        - /url: "#listen"
+      - link "Conteúdo" [ref=e9] [cursor=pointer]:
+        - /url: "#included"
+      - link "Specs" [ref=e10] [cursor=pointer]:
+        - /url: "#specs"
+      - link "FAQ" [ref=e11] [cursor=pointer]:
+        - /url: "#faq"
+    - link "Comprar agora" [ref=e12] [cursor=pointer]:
+      - /url: "#comprar"
+  - banner [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e15]: Biblioteca completa para Native Instruments Kontakt
+      - heading "Full Kontakt Pro" [level=1] [ref=e16]
+      - paragraph [ref=e17]: Centenas de patches, kits e presets prontos para elevar suas produções — sem precisar programar som do zero.
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: "[N]"
+          - generic [ref=e21]: Patches inclusos
+        - generic [ref=e22]:
+          - generic [ref=e23]: "[N] GB"
+          - generic [ref=e24]: De conteúdo sonoro
+        - generic [ref=e25]:
+          - generic [ref=e26]: Kontakt [X]+
+          - generic [ref=e27]: Versão mínima
+        - generic [ref=e28]:
+          - generic [ref=e29]: Player
+          - generic [ref=e30]: Compatível grátis
+      - generic [ref=e31]:
+        - generic [ref=e32]: R$ [preço cheio]
+        - generic [ref=e33]: R$ [preço promocional]
+        - generic [ref=e34]: pagamento único · acesso vitalício
+      - link "Quero o Full Kontakt Pro" [ref=e35] [cursor=pointer]:
+        - /url: "#comprar"
+      - paragraph [ref=e36]: Garantia de 7 dias · Entrega imediata por download
+  - generic [ref=e38]:
+    - heading "Ouça antes de decidir" [level=2] [ref=e39]
+    - paragraph [ref=e40]:
+      - text: "[Substituir pelos áudios reais da biblioteca — arquivos em"
+      - code [ref=e41]: assets/audio/
+      - text: "]"
+    - generic [ref=e42]:
+      - generic [ref=e44]:
+        - button "Tocar Demo 01 — [nome do patch]" [ref=e45] [cursor=pointer]: ▶
+        - generic [ref=e46]:
+          - generic [ref=e47]: Demo 01 — [nome do patch]
+          - generic [ref=e48]: "[categoria]"
+      - generic [ref=e51]:
+        - button "Tocar Demo 02 — [nome do patch]" [ref=e52] [cursor=pointer]: ▶
+        - generic [ref=e53]:
+          - generic [ref=e54]: Demo 02 — [nome do patch]
+          - generic [ref=e55]: "[categoria]"
+      - generic [ref=e58]:
+        - button "Tocar Demo 03 — [nome do patch]" [ref=e59] [cursor=pointer]: ▶
+        - generic [ref=e60]:
+          - generic [ref=e61]: Demo 03 — [nome do patch]
+          - generic [ref=e62]: "[categoria]"
+      - generic [ref=e65]:
+        - button "Tocar Demo 04 — [nome do patch]" [ref=e66] [cursor=pointer]: ▶
+        - generic [ref=e67]:
+          - generic [ref=e68]: Demo 04 — [nome do patch]
+          - generic [ref=e69]: "[categoria]"
+      - generic [ref=e72]:
+        - button "Tocar Demo 05 — [nome do patch]" [ref=e73] [cursor=pointer]: ▶
+        - generic [ref=e74]:
+          - generic [ref=e75]: Demo 05 — [nome do patch]
+          - generic [ref=e76]: "[categoria]"
+      - generic [ref=e79]:
+        - button "Tocar Demo 06 — [nome do patch]" [ref=e80] [cursor=pointer]: ▶
+        - generic [ref=e81]:
+          - generic [ref=e82]: Demo 06 — [nome do patch]
+          - generic [ref=e83]: "[categoria]"
+  - generic [ref=e86]:
+    - heading "O que está incluso" [level=2] [ref=e87]
+    - paragraph [ref=e88]: "[Substituir pela lista real de patches, kits e presets do pacote]"
+    - generic [ref=e89]:
+      - generic [ref=e90]:
+        - heading "Kit Orquestral" [level=3] [ref=e91]
+        - paragraph [ref=e92]: "[N] articulações · [N] patches"
+      - generic [ref=e93]:
+        - heading "Kit Synths" [level=3] [ref=e94]
+        - paragraph [ref=e95]: "[N] presets · [N] patches"
+      - generic [ref=e96]:
+        - heading "Kit Beats & Percussão" [level=3] [ref=e97]
+        - paragraph [ref=e98]: "[N] loops · [N] one-shots"
+      - generic [ref=e99]:
+        - heading "Kit Vocal" [level=3] [ref=e100]
+        - paragraph [ref=e101]: "[N] frases · [N] efeitos"
+    - generic [ref=e102]:
+      - heading "Ancoragem de valor" [level=3] [ref=e103]
+      - list [ref=e104]:
+        - listitem [ref=e105]:
+          - generic [ref=e106]: "[Item 1]"
+          - generic [ref=e107]: R$ [valor]
+        - listitem [ref=e108]:
+          - generic [ref=e109]: "[Item 2]"
+          - generic [ref=e110]: R$ [valor]
+        - listitem [ref=e111]:
+          - generic [ref=e112]: "[Item 3]"
+          - generic [ref=e113]: R$ [valor]
+        - listitem [ref=e114]:
+          - generic [ref=e115]: "[Item 4]"
+          - generic [ref=e116]: R$ [valor]
+      - generic [ref=e117]:
+        - generic [ref=e118]: Valor total avulso
+        - generic [ref=e119]: R$ [soma]
+      - generic [ref=e120]:
+        - generic [ref=e121]: Seu preço hoje
+        - generic [ref=e122]: R$ [preço promocional]
+  - generic [ref=e124]:
+    - heading "A interface por dentro" [level=2] [ref=e125]
+    - paragraph [ref=e126]: "[Substituir pelas capturas reais da interface dentro do Kontakt]"
+    - generic [ref=e127]:
+      - generic [ref=e128]: Screenshot 1
+      - generic [ref=e129]: Screenshot 2
+      - generic [ref=e130]: Screenshot 3
+      - generic [ref=e131]: Screenshot 4
+      - generic [ref=e132]: Screenshot 5
+  - generic [ref=e134]:
+    - heading "Quem usa, recomenda" [level=2] [ref=e135]
+    - paragraph [ref=e136]: "[Substituir pelos depoimentos reais de clientes/produtores]"
+    - generic [ref=e137]:
+      - blockquote [ref=e138]:
+        - paragraph [ref=e139]: "\"[Depoimento de exemplo — substituir por depoimento real]\""
+        - text: — [Nome do cliente], [profissão]
+      - blockquote [ref=e140]:
+        - paragraph [ref=e141]: "\"[Depoimento de exemplo — substituir por depoimento real]\""
+        - text: — [Nome do cliente], [profissão]
+      - blockquote [ref=e142]:
+        - paragraph [ref=e143]: "\"[Depoimento de exemplo — substituir por depoimento real]\""
+        - text: — [Nome do cliente], [profissão]
+  - generic [ref=e145]:
+    - heading "Especificações técnicas" [level=2] [ref=e146]
+    - generic [ref=e147]:
+      - generic [ref=e148]:
+        - generic [ref=e149]: Sistema operacional
+        - generic [ref=e150]: "[Windows/macOS — versões suportadas]"
+      - generic [ref=e151]:
+        - generic [ref=e152]: Versão do Kontakt
+        - generic [ref=e153]: Kontakt [X]+ ou Kontakt Player [X]+ (gratuito)
+      - generic [ref=e154]:
+        - generic [ref=e155]: Tamanho da instalação
+        - generic [ref=e156]: "[N] GB"
+      - generic [ref=e157]:
+        - generic [ref=e158]: Formato
+        - generic [ref=e159]: NKI / NKX (Kontakt Instrument)
+      - generic [ref=e160]:
+        - generic [ref=e161]: Requisitos mínimos
+        - generic [ref=e162]: "[RAM, processador, espaço em disco]"
+      - generic [ref=e163]:
+        - generic [ref=e164]: Forma de entrega
+        - generic [ref=e165]: Download digital imediato após confirmação do pagamento
+  - generic [ref=e167]:
+    - heading "Perguntas frequentes" [level=2] [ref=e168]
+    - generic [ref=e169]:
+      - generic [ref=e170]:
+        - button "Preciso ter o Kontakt completo ou o Player gratuito serve? +" [ref=e171] [cursor=pointer]
+        - paragraph [ref=e172]: "[Resposta real sobre compatibilidade com Kontakt Player]"
+      - generic [ref=e173]:
+        - button "Como recebo o produto após a compra? +" [ref=e174] [cursor=pointer]
+        - paragraph [ref=e175]: "[Resposta real sobre forma de entrega/download]"
+      - generic [ref=e176]:
+        - button "Existe garantia de reembolso? +" [ref=e177] [cursor=pointer]
+        - paragraph [ref=e178]: "[Resposta real sobre política de reembolso]"
+      - generic [ref=e179]:
+        - button "Posso usar os sons em projetos comerciais? +" [ref=e180] [cursor=pointer]
+        - paragraph [ref=e181]: "[Resposta real sobre licença de uso comercial]"
+      - generic [ref=e182]:
+        - button "Terei acesso a atualizações futuras? +" [ref=e183] [cursor=pointer]
+        - paragraph [ref=e184]: "[Resposta real sobre política de atualizações]"
+      - generic [ref=e185]:
+        - button "Como funciona o suporte se eu tiver problemas? +" [ref=e186] [cursor=pointer]
+        - paragraph [ref=e187]: "[Resposta real sobre canal de suporte]"
+  - generic [ref=e189]:
+    - heading "Pronto para elevar suas produções?" [level=2] [ref=e190]
+    - paragraph [ref=e191]: Acesso vitalício · Entrega imediata · Garantia de 7 dias
+    - link "Quero o Full Kontakt Pro por R$ [preço promocional]" [ref=e192] [cursor=pointer]:
+      - /url: "#"
+  - contentinfo [ref=e193]:
+    - generic [ref=e194]:
+      - generic [ref=e195]: Full Kontakt Pro © 2026
+      - navigation [ref=e196]:
+        - link "Suporte" [ref=e197] [cursor=pointer]:
+          - /url: "#faq"
+        - link "Política de reembolso" [ref=e198] [cursor=pointer]:
+          - /url: "#faq"
