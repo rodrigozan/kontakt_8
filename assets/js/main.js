@@ -4,7 +4,7 @@ const DEMOS = [
   { title: 'Demo 03 — [nome do patch]', sub: '[categoria]', src: 'assets/audio/demo-03.mp3' },
   { title: 'Demo 04 — [nome do patch]', sub: 'Synth Leads', src: 'assets/audio/demo-04.mp3' },
   { title: 'Demo 05 — [nome do patch]', sub: '[categoria]', src: 'assets/audio/demo-05.mp3' },
-  { title: 'Demo 06 — [nome do patch]', sub: '[categoria]', src: 'assets/audio/demo-06.mp3' },
+  { title: 'Demo 06 — [nome do patch]', sub: 'Synth Guitar', src: 'assets/audio/demo-06.mp3' },
 ];
 
 let activePlayer = null;
