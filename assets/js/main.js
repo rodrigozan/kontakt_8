@@ -1,10 +1,10 @@
 const DEMOS = [
-  { title: 'Demo 01 — [nome do patch]', sub: 'Pianos e Pads', src: 'assets/audio/demo-01.mp3' },
-  { title: 'Demo 02 — [nome do patch]', sub: '[categoria]', src: 'assets/audio/demo-02.mp3' },
-  { title: 'Demo 03 — [nome do patch]', sub: '[categoria]', src: 'assets/audio/demo-03.mp3' },
-  { title: 'Demo 04 — [nome do patch]', sub: 'Synth Leads', src: 'assets/audio/demo-04.mp3' },
-  { title: 'Demo 05 — [nome do patch]', sub: '[categoria]', src: 'assets/audio/demo-05.mp3' },
-  { title: 'Demo 06 — [nome do patch]', sub: 'Synth Guitar', src: 'assets/audio/demo-06.mp3' },
+  { title: 'Demo 01', sub: 'Pianos e Pads', src: 'assets/audio/demo-01.mp3' },
+  { title: 'Demo 02', sub: '[categoria]', src: 'assets/audio/demo-02.mp3' },
+  { title: 'Demo 03', sub: '[categoria]', src: 'assets/audio/demo-03.mp3' },
+  { title: 'Demo 04', sub: 'Synth Leads', src: 'assets/audio/demo-04.mp3' },
+  { title: 'Demo 05', sub: '[categoria]', src: 'assets/audio/demo-05.mp3' },
+  { title: 'Demo 06', sub: 'Synth Guitar', src: 'assets/audio/demo-06.mp3' },
 ];
 
 let activePlayer = null;
